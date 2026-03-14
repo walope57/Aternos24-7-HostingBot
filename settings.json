@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "s2infusesmp.feathermc.gg",
-    "port": 62213,
+    "ip": "lifestealsmps1-rcHf.aternos.me:60508",
+    "port": 60508,
     "version": "",
     "try-creative": false
   },
