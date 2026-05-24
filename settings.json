@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
-    "password": "",
+    "username": "ls_bot",
+    "password": "/register 1234 1234",
     "type": "offline"
   },
   "server": {
-    "ip": "lifestealsmps1-rcHf.aternos.me:60508",
-    "port": 60508,
+    "ip": "gold.magmanode.com",
+    "port": 34289,
     "version": "",
     "try-creative": false
   },
